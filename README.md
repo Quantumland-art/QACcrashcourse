@@ -18,7 +18,7 @@ In this tutorial, I will walk through most features of The QAC Toolkit, a free M
 
 ## Related links
 1. https://quantumland.art/qac
-2. [https://quantum.ibm.com/composer](https://quantum.ibm.com/composer/files/new?initial=N4IgdghgtgpiBcICqYAuBLVAbGATABAMboBOhArpiADQgCOEAzlAiAPIAKAogHICKAQQDKAWXwAmAHQAGANwAdMOjCEs5XDHzz6MLOgBGARknLC2hWEV0SMAOb46AbUMBdC4Rv3CjgCxvFNCAajB7oAA4YAPZgrCAAvkA)
+2. [https://quantum.ibm.com/composer](https://quantum.ibm.com/composer/files/new?initial=N4IgdghgtgpiBcICqYAuBLVAbGATABAMboBOhArpiADQgCOEAzlAiAPIAKAogHICKAQQDKAWXwAmAHQAGANwAdMOjCEs5XDHzz6MLOgBGARknLC2hWEV0SMAOb46AbUMBdC4Rv3Cj8W8U0QDUYPdAAHDAB7MFYQAF8gA)
 3. https://community.quantumland.art/
 
 ## Acknowledgements
