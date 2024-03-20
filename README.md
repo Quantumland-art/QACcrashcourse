@@ -13,12 +13,13 @@ In this tutorial, I will walk through most features of The QAC Toolkit, a free M
 
 ## Requirements
 - Latest [Max/msp](https://cycling74.com) installed
-- (optional) [Ableton Live](https://ableton.com)
+- [Ableton Live](https://ableton.com) 11 or higher
 - (optional) [IBM quantum](https://quantum.ibm.com) account
 
 ## Related links
-- https://quantumland.art/qac
-- https://community.quantumland.art/
+1. https://quantumland.art/qac
+2. [https://quantum.ibm.com/composer](https://quantum.ibm.com/composer/files/new?initial=N4IgdghgtgpiBcICqYAuBLVAbGATABAMboBOhArpiADQgCOEAzlAiAPIAKAogHICKAQQDKAWXwAmAHQAGANwAdMOjCEs5XDHzz6MLOgBGARknLC2hWEV0SMAOb46AbUMBdC4Rv3CjgCxvFNCAajB7oAA4YAPZgrCAAvkA)
+3. https://community.quantumland.art/
 
 ## Acknowledgements
 This repo was built by [OCH](https://omarcostahamido.com), while working on the [IIMPAQCT](https://cordis.europa.eu/project/id/101109258) project.
